@@ -21,7 +21,7 @@ A lightweight Windows process watchdog: it stays in the system tray, monitors th
 
 ## Quick Start
 
-1. Download `ProcessWatchdog install.exe` from [Releases](../../releases) and run it
+1. Download `ProcessWatchdog-install` from [Releases](../../releases) and run it
 2. Create `config.ini` in the installation directory (a template is auto-generated on first run) and edit it as needed:
 
 ```ini
