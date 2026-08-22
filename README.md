@@ -22,7 +22,7 @@
 
 ## 快速开始
 
-1. 从 [Releases](../../releases) 下载 `ProcessWatchdog install.exe`，运行
+1. 从 [Releases](../../releases) 下载 `ProcessWatchdog-install`，运行
 2. 安装目录下创建 `config.ini`（首次运行会自动生成模板），按需修改：
 
 ```ini
