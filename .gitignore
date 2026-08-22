@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# Build artifacts (发布请在 Releases 上传)
+*.exe
+
+# 运行时生成文件
+Log.txt
+config.ini
