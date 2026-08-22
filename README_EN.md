@@ -1,3 +1,5 @@
+English | [简体中文](./README.md)
+
 # Process Watchdog
 
 A lightweight Windows process watchdog: it stays in the system tray, monitors the running state of a specified program (Program A), and when it exits — whether closed normally or crashed — it **automatically and concurrently** launches a pre-configured list of programs (Program B list), with full logging.
