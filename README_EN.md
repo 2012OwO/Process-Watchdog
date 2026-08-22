@@ -6,7 +6,7 @@ A lightweight Windows process watchdog: it stays in the system tray, monitors th
 
 ## Notes
 
-- This program has no uninstaller. To remove it, simply delete all files in the installation directory(C:\Program Files\ProcessWatchdog).
+- This program has no uninstaller. To remove it, simply delete all files in the installation directory(C:\Users\yourusername\AppData\Local\Programs\ProcessWatchdog).
 - **Watch your system tray!!!** Multiple instances of this program can be run at the same time, with no warning when more than one is open.
 
 ## Features
